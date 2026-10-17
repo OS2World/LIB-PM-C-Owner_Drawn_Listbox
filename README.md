@@ -1,4 +1,4 @@
-# DEV-SAMPLES-C-LIB-PM-Owner_Drawn_Listbox
+LIB-PM-C-Owner_Drawn_Listbox
 
 An OS/2 Presentation Manager library that enables **column-aligned text** in listboxes when using a proportional-spaced font.
 
